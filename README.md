@@ -12,7 +12,7 @@
 
 <p  align="center">
 
-<img  src="https://readme-typing-svg.demolab.com/?lines=Hi👋, I'm Mohammad Uvais; 🧑‍💻 A Full Stack ML Developer; Love to solve problems in C++ ;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+<img  src="https://readme-typing-svg.demolab.com/?lines=Hi👋, I'm Mohammad Uvais; 🧑‍💻 A Full Stack ML Developer; Love to solve problems in Cpp ;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 
 *About Me*:<br>
 
