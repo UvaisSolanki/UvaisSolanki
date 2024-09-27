@@ -85,18 +85,3 @@ I am Currently a 4th year Electronics and Communication Student at Bangalore Ins
 
 </p>
 
-  
-
-
-## Github Stats
-
-<div  align="center"><img  src="https://github-readme-stats.vercel.app/api?username=rajarshidattapy&show_icons=true&locale=en" alt="rajarshidattapy"  align="center"  /></div>
-
-<br/>
-
-<div  align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rajarshidattapy&show_icons=true&locale=en&layout=compact" alt="rajarshidattapy"  align="center"  /></div>
-
-
-<br/>
-
-  
